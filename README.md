@@ -1,6 +1,6 @@
 # Bucket of Science
 
-Open source data science things.
+Open source things for scientific use.
 
 ## Python virtual environment
 
